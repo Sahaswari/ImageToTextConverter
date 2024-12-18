@@ -1,5 +1,5 @@
 ---
-<img src="Screenshot (20).ng" alt="Alt Text" width="500">
+<img src="Screenshot (20).png" alt="Alt Text" width="500">
 
 
 ### **Tips**
